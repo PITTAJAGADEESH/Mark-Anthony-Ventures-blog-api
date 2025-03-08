@@ -24,7 +24,6 @@ This is a RESTful API for a blogging platform built using Node.js, Express, Sequ
 ✅ Input validation using express-validator
 ✅ Middleware for authentication & authorization
 ✅ Pagination support
-✅ Search functionality (filter posts by title)
 ✅ Rate-limiting for security
 
 ## Tech Stack
@@ -94,4 +93,4 @@ Below are sample request screenshots:
 
 The API is deployed on **Render**.
 
-🔗 **Live API URL:** [<YOUR_DEPLOYMENT_LINK>](YOUR_DEPLOYMENT_LINK)
+🔗 **Live API URL:** [Mark Anthony Ventures Blog API](https://mark-anthony-ventures-blog-api.onrender.com)
